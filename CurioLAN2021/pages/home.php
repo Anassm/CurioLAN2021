@@ -193,6 +193,8 @@
         img.style = 'transform: scale(1.2)';
         };
     </script>
+dit is een test text.
 
-</body>
-</html>
+
+
+
